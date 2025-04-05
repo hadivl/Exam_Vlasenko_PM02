@@ -1,0 +1,14 @@
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\obj\Debug\net8.0\Exam_Vlasenko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\obj\Debug\net8.0\Exam_Vlasenko.AssemblyInfoInputs.cache
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\obj\Debug\net8.0\Exam_Vlasenko.AssemblyInfo.cs
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\obj\Debug\net8.0\Exam_Vlasenko.csproj.CoreCompileInputs.cache
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\bin\Debug\net8.0\Exam_Vlasenko.exe
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\bin\Debug\net8.0\Exam_Vlasenko.deps.json
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\bin\Debug\net8.0\Exam_Vlasenko.runtimeconfig.json
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\bin\Debug\net8.0\Exam_Vlasenko.dll
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\bin\Debug\net8.0\Exam_Vlasenko.pdb
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\obj\Debug\net8.0\Exam_Vlasenko.dll
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\obj\Debug\net8.0\refint\Exam_Vlasenko.dll
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\obj\Debug\net8.0\Exam_Vlasenko.pdb
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\obj\Debug\net8.0\Exam_Vlasenko.genruntimeconfig.cache
+C:\Users\vlase\Desktop\src\Exam_Vlasenko\Exam_Vlasenko\obj\Debug\net8.0\ref\Exam_Vlasenko.dll

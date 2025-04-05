@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vlase\\Desktop\\src\\Exam_Vlasenko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A797CFB-583D-4242-94BC-86D0C653026B}|Exam_Vlasenko\\Exam_Vlasenko.csproj|c:\\users\\vlase\\desktop\\src\\exam_vlasenko\\exam_vlasenko\\dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A797CFB-583D-4242-94BC-86D0C653026B}|Exam_Vlasenko\\Exam_Vlasenko.csproj|solutionrelative:exam_vlasenko\\dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A797CFB-583D-4242-94BC-86D0C653026B}|Exam_Vlasenko\\Exam_Vlasenko.csproj|c:\\users\\vlase\\desktop\\src\\exam_vlasenko\\exam_vlasenko\\matrices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A797CFB-583D-4242-94BC-86D0C653026B}|Exam_Vlasenko\\Exam_Vlasenko.csproj|solutionrelative:exam_vlasenko\\matrices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A797CFB-583D-4242-94BC-86D0C653026B}|Exam_Vlasenko\\Exam_Vlasenko.csproj|c:\\users\\vlase\\desktop\\src\\exam_vlasenko\\exam_vlasenko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A797CFB-583D-4242-94BC-86D0C653026B}|Exam_Vlasenko\\Exam_Vlasenko.csproj|solutionrelative:exam_vlasenko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A797CFB-583D-4242-94BC-86D0C653026B}|Exam_Vlasenko\\Exam_Vlasenko.csproj|c:\\users\\vlase\\desktop\\src\\exam_vlasenko\\exam_vlasenko\\speedselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A797CFB-583D-4242-94BC-86D0C653026B}|Exam_Vlasenko\\Exam_Vlasenko.csproj|solutionrelative:exam_vlasenko\\speedselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A797CFB-583D-4242-94BC-86D0C653026B}|Exam_Vlasenko\\Exam_Vlasenko.csproj|c:\\users\\vlase\\desktop\\src\\exam_vlasenko\\exam_vlasenko\\traveltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A797CFB-583D-4242-94BC-86D0C653026B}|Exam_Vlasenko\\Exam_Vlasenko.csproj|solutionrelative:exam_vlasenko\\traveltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A797CFB-583D-4242-94BC-86D0C653026B}|Exam_Vlasenko\\Exam_Vlasenko.csproj|c:\\users\\vlase\\desktop\\src\\exam_vlasenko\\exam_vlasenko\\uploadingfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A797CFB-583D-4242-94BC-86D0C653026B}|Exam_Vlasenko\\Exam_Vlasenko.csproj|solutionrelative:exam_vlasenko\\uploadingfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 311,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dijkstra.cs",
+              "DocumentMoniker": "C:\\Users\\vlase\\Desktop\\src\\Exam_Vlasenko\\Exam_Vlasenko\\Dijkstra.cs",
+              "RelativeDocumentMoniker": "Exam_Vlasenko\\Dijkstra.cs",
+              "ToolTip": "C:\\Users\\vlase\\Desktop\\src\\Exam_Vlasenko\\Exam_Vlasenko\\Dijkstra.cs",
+              "RelativeToolTip": "Exam_Vlasenko\\Dijkstra.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:26:04.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matrices.cs",
+              "DocumentMoniker": "C:\\Users\\vlase\\Desktop\\src\\Exam_Vlasenko\\Exam_Vlasenko\\Matrices.cs",
+              "RelativeDocumentMoniker": "Exam_Vlasenko\\Matrices.cs",
+              "ToolTip": "C:\\Users\\vlase\\Desktop\\src\\Exam_Vlasenko\\Exam_Vlasenko\\Matrices.cs",
+              "RelativeToolTip": "Exam_Vlasenko\\Matrices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:26:02.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vlase\\Desktop\\src\\Exam_Vlasenko\\Exam_Vlasenko\\Program.cs",
+              "RelativeDocumentMoniker": "Exam_Vlasenko\\Program.cs",
+              "ToolTip": "C:\\Users\\vlase\\Desktop\\src\\Exam_Vlasenko\\Exam_Vlasenko\\Program.cs",
+              "RelativeToolTip": "Exam_Vlasenko\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:25:59.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpeedSelection.cs",
+              "DocumentMoniker": "C:\\Users\\vlase\\Desktop\\src\\Exam_Vlasenko\\Exam_Vlasenko\\SpeedSelection.cs",
+              "RelativeDocumentMoniker": "Exam_Vlasenko\\SpeedSelection.cs",
+              "ToolTip": "C:\\Users\\vlase\\Desktop\\src\\Exam_Vlasenko\\Exam_Vlasenko\\SpeedSelection.cs",
+              "RelativeToolTip": "Exam_Vlasenko\\SpeedSelection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:25:56.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TravelTime.cs",
+              "DocumentMoniker": "C:\\Users\\vlase\\Desktop\\src\\Exam_Vlasenko\\Exam_Vlasenko\\TravelTime.cs",
+              "RelativeDocumentMoniker": "Exam_Vlasenko\\TravelTime.cs",
+              "ToolTip": "C:\\Users\\vlase\\Desktop\\src\\Exam_Vlasenko\\Exam_Vlasenko\\TravelTime.cs",
+              "RelativeToolTip": "Exam_Vlasenko\\TravelTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:25:53.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UploadingFile.cs",
+              "DocumentMoniker": "C:\\Users\\vlase\\Desktop\\src\\Exam_Vlasenko\\Exam_Vlasenko\\UploadingFile.cs",
+              "RelativeDocumentMoniker": "Exam_Vlasenko\\UploadingFile.cs",
+              "ToolTip": "C:\\Users\\vlase\\Desktop\\src\\Exam_Vlasenko\\Exam_Vlasenko\\UploadingFile.cs",
+              "RelativeToolTip": "Exam_Vlasenko\\UploadingFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:25:49.664Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 20,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
